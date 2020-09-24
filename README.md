@@ -1,3 +1,3 @@
 # gitskills
 For testing in Gitee.
-For testing inGitHub.
+For testing in GitHub.
